@@ -7,7 +7,7 @@ int main()
 
 {
 
-    int *array,*narray;
+    int *array;
 
     int size,loc,j,i;
 
