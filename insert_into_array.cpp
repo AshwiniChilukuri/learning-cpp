@@ -1,4 +1,3 @@
-//inserting element into array
 #include <iostream>
 
 using namespace std;
@@ -20,7 +19,7 @@ int main()
     for(int i=0;i<size;i++)
 
     {
-        cout<<"enter "<< i <<" element of array";
+	cout<<"enter "<< i <<" element of array";
 
         cin>>array[i];
 
